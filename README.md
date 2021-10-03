@@ -1,10 +1,5 @@
-## 👋 Hi, I’m @RodriCabrera
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RodriCabrera/RodriCabrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hi, I’m @RodriCabrera. Thank you for your visit!
+- 👀 I’m interested in developing my skills while getting to know new people and gaining experience.
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on any project you have in mind!
+- 📫 How to reach me: rodrigo1cabrera2@gmail.com
